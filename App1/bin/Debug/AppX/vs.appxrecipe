@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FOFIE</Machine>
+    <WindowsUser>fofiedelly</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>41606cc9-79bd-4b59-a7a9-bcf25592a865</PackageIdentityName>
+    <RegisteredManifestChecksum>7D30107049BA1CC9248359EF224D311EB2758B4A2194B651B9362C01327B36CC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>41606cc9-79bd-4b59-a7a9-bcf25592a865_1.0.0.0_neutral__w05ce2c42w01m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>41606cc9-79bd-4b59-a7a9-bcf25592a865_w05ce2c42w01m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>41606cc9-79bd-4b59-a7a9-bcf25592a865</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=fofiedelly</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-09T14:12:33.279</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-10-09T14:10:29.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2014-10-09T14:10:29.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T19:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T19:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T19:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T19:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-10-09T14:10:28.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2014-10-09T14:10:30.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2014-10-09T14:10:30.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2014-10-09T14:10:29.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-10-09T14:10:28.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\fofiedelly\documents\visual studio 2013\Projects\App1\App1\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-09T14:12:30.205</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
